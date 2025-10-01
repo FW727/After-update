@@ -1,7 +1,7 @@
 {
   "appName": "After Motion",
   "latestVersion": "v5.3.0",
-  "appIconUrl": "https://i.imgur.com/your-icon.png",
+  "appIconUrl": "https://societyfw.netlify.app/webs/%F0%9D%91%A4%F0%9D%91%92%F0%9D%91%8F%20%F0%9D%91%91%F0%9D%91%92%20%F0%9D%91%92%F0%9D%91%91%F0%9D%91%96%F0%9D%91%A1%F0%9D%91%9C%F0%9D%91%9F%F0%9D%91%92%F0%9D%91%A0/icons/after%20motion%20z.png",
   "notification": {
     "show": true,
     "message": "¡Nueva versión v5.3.0 disponible! Se corrigieron errores y se mejoró la exportación."
