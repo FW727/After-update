@@ -1,6 +1,6 @@
 {
   "updatePrompt": {
-    "enabled": true,
+    "enabled": false,
     "title": "¿Ya tienes la última versión?",
     "message": "Parece que estás al día. ¿Quieres ver las novedades del sitio o descargar de todas formas?",
     "buttons": {
@@ -92,4 +92,3 @@
     }
   ]
 }
-
